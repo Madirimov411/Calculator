@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name1="app" name="TODO">=</string>
+    <string name="app00" translatable="false">+</string>
+    <string name="app11" translatable="false">-</string>
+    <string name="app22" translatable="false">*</string>
+    <string name="app33" translatable="false">÷</string>
+    <string name="app1" translatable="false">1</string>
+    <string name="app2" translatable="false">2</string>
+    <string name="app3" translatable="false">3</string>
+    <string name="app4" translatable="false">4</string>
+    <string name="app5" translatable="false">5</string>
+    <string name="app6" translatable="false">6</string>
+    <string name="app7" translatable="false">7</string>
+    <string name="app8" translatable="false">8</string>
+    <string name="app9" translatable="false">9</string>
+    <string name="app0" translatable="false">0</string>
+    <string name="appAC" translatable="false">AC</string>
+    <string name="appfoiz" translatable="false">%</string>
+    <string name="appvergul" translatable="false">,</string>
+    <string name="apppilusminus" translatable="false">+/-</string>
+
 </resources>
